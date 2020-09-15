@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=HostMan
+GenericName=HostMan
+Exec=/home/darkjinnee/hostman/hostman.sh
+Icon=/home/darkjinnee/hostman/icon.png
+Terminal=true

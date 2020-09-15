@@ -1,2 +1,2 @@
-# hostman
+# HostMan
 Manager hosts on bash
