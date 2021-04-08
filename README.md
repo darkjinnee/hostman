@@ -1,2 +1,2 @@
 # HostMan
-Manager hosts on bash
+Host manager utility
